@@ -1,7 +1,7 @@
 # bluez_wifi_config
 wificonfig with BLE base on bluez-5.50 (on RaspberryPi)
 
-install python and download bluez-5.50
+install nmcli, python and download bluez-5.50
 
 type command to start wifi config through BLE GATT Server
 
